@@ -7,7 +7,7 @@ const personalMovieDB = {
     movies: {},
     actors: {},
     genres: [],
-    privete: false
+    private: false
 };
 
 let lastFilmTitle = prompt('What last film you see?', '');
